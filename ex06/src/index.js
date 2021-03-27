@@ -8,7 +8,7 @@ class App extends React.Component {
 
       // CH
 
-const wolrd = "World";
+const world = "World";
 
       //CH
       return (
